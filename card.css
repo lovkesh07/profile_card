@@ -8,7 +8,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 100hv;
+    min-width: 100vH;
+    background-color: #0d2131;
 }
 .cont{
     position: relative;
